@@ -99,5 +99,6 @@ def like(post_id):
 
 
 if __name__ == '__main__':
-    #app.run(debug=True)
+    # host='0.0.0.0' tells Flask to listen to all public IPs
+    # port=5000 is the standard port Codio looks for
     app.run(host='0.0.0.0', port=5000, debug=True)
