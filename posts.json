@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "author": "Willy McCain",
+        "title": "The Importance of Sports",
+        "content": "Sports are far more than games \u2014 they're essential to a healthy life. Regular physical activity strengthens the heart, boosts immunity, and improves mental health by reducing stress and anxiety. Beyond fitness, sports teach invaluable life skills: teamwork, discipline, resilience, and leadership. Whether competitive or recreational, participating in sports builds confidence and fosters community. Children who play sports perform better academically, while adults who stay active age more gracefully. In a world increasingly dominated by screens and sedentary habits, sports offer a vital counterbalance \u2014 keeping our bodies strong, our minds sharp, and our spirits connected.",
+        "likes": 2
+    },
+    {
+        "id": 4,
+        "author": "Ali Ahmed",
+        "title": "Studying While Working: Tips for an Efficient Work-Life Balance",
+        "content": "Juggling a job and studies is challenging, but entirely achievable with the right strategy. Start by creating a structured schedule that dedicates specific blocks of time to work, study, and rest \u2014 and stick to it. Prioritize tasks ruthlessly, tackling high-impact work first. Use your commute or lunch breaks for light reading or reviewing notes. Communicate with your employer about your academic goals; many are supportive. Avoid multitasking \u2014 deep focus beats divided attention every time. Finally, protect your downtime. Rest isn't wasted time; it's fuel. Sustainable success comes from balance, not burnout.",
+        "likes": 2
+    },
+    {
+        "id": 5,
+        "author": "Ali Ahmed",
+        "title": "The Gig Economy",
+        "content": "The gig economy has fundamentally reshaped how people work. Powered by digital platforms like Uber, Fiverr, and Upwork, millions now earn income through short-term contracts and freelance work rather than traditional employment. The appeal is clear: flexibility, autonomy, and the ability to monetize diverse skills. However, gig work comes with trade-offs \u2014 no employer-sponsored benefits, unpredictable income, and little job security. For some, it's a liberating career choice; for others, a necessity. As this model grows, governments and businesses face pressing questions about worker rights and protections. The gig economy is here to stay \u2014 the challenge is making it fair.",
+        "likes": 1
+    }
+]
